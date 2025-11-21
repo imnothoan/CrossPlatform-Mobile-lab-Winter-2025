@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Lab1-IAmRich",
-    "slug": "Lab1-IAmRich",
+    "name": "Lab2-MiCard",
+    "slug": "Lab2-MiCard",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
